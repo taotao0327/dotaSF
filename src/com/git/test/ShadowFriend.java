@@ -7,6 +7,8 @@ public class ShadowFriend {
 		System.out.println("First Blood!");
 		System.out.println("double kill!");
 		System.out.println("threeboule Blood!");
+		System.out.println("ouchuo kill!");
+		System.out.println("oranpage!");
 	}
 
 }
